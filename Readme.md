@@ -6,7 +6,7 @@ The idea is to let people type something like “songs that feel like heartbreak
 
 ## Mission Statement
 
-Build a search system that understands the emotional feel of music — not just genre or tempo — by combining features from:
+Build a search system that understands the emotional feel of music, not just genre or tempo, by combining features from:
 
 - Audio (using CLAP)
 - Lyrics (using Sentence-BERT)
