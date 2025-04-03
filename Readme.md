@@ -11,6 +11,13 @@ Build a search system that understands the emotional feel of music — not just 
 - Lyrics (using Sentence-BERT)
 - MIDI (tempo, pitch, note density with pretty_midi)
 
+
+## File Structure 
+- 
+- 
+- 
+
+
 ## Current Progress
 
 - Collected a subset of 50 songs from the 2013 MIREX-like Mood Dataset, each with audio, lyrics, and MIDI
