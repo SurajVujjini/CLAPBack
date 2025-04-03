@@ -2,7 +2,7 @@
 
 CLAPBack is a project to explore emotional music search using audio, lyrics, and MIDI.  
 The idea is to let people type something like “songs that feel like heartbreak in spring” and actually get back music that matches that emotional feel.
-**This is a demo for the question asked as part of the recuiting process for a positon at Tamber.**
+**This is a demo for the question asked as part of the recuiting process, for a positon at Tamber.**
 
 ## Mission Statement
 
