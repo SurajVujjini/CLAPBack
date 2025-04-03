@@ -13,10 +13,19 @@ Build a search system that understands the emotional feel of music, not just gen
 - MIDI (tempo, pitch, note density with pretty_midi)
 
 
-## File Structure 
-- 
-- 
-- 
+## File Structure
+
+- `notebook.ipynb`  
+  Main Jupyter notebook containing the full pipeline: data loading, preprocessing, embedding generation, search, and validation.
+
+- `audio_midi_lyrics/`  
+  Folder containing the dataset subset: 50 audio files (.mp3), lyrics (.txt), and MIDI files (.mid), all matched by ID.
+
+- `Embeddings/`  
+  Stores the generated embedding vectors (`.npy` files) and song IDs after processing.
+
+- `Readme.md`  
+  This README file with project overview, structure, progress, and next steps.
 
 
 ## Current Progress
